@@ -1,0 +1,9 @@
+{
+  "short_name": "GitHub Search",
+  "name": "Search for Users on GitHub",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
